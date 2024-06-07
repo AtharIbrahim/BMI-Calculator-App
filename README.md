@@ -1,6 +1,6 @@
 # BMI Calculator App
 
-The BMI Calculator app is a useful tool designed to help people track their body mass index (BMI) and measure their weight. The app has a beautiful and easy-to-use interface that provides accurate BMI calculations based on weight and height input for both men and women.
+The BMI Calculator app is a useful tool designed to help people track their body mass index (BMI) and measure their weight. The app has a beautiful and easy-to-use interface that provides accurate BMI calculations based on weight and height input for both men and women. Users can choose their own gender to confirm calculations; The default value is male. The app has a clean design and makes it easy to enter weight and height in feet and inches. It provides suggestions with color values ​​(red for overweight, yellow for underweight, green for healthy) and includes animations. Error handling ensures that non-numeric data is handled correctly and error messages are displayed when necessary. The top menu allows easy gender changes to maintain accurate calculations. Ideal for health-conscious people or exercisers, the app provides a quick and reliable way to track BMI and understand weight.
 
 ## Features
 
