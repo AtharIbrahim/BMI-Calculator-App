@@ -32,7 +32,7 @@ This app is perfect for health-conscious people or those on a fitness journey. I
 
 - ## Screenshot:
 
-<img src="https://github.com/AtharIbrahim/BMI-Calculator-App/blob/main/Screenshot/Main.jpg" alt="CryptoMatrix Logo" style="max-width: 80%; height: 1000px; margin-bottom: 20px;">
+<img src="https://github.com/AtharIbrahim/BMI-Calculator-App/blob/main/Screenshot/Main.jpg" alt="CryptoMatrix Logo" style="max-width: 80%; height: 800px; margin-bottom: 20px;">
 
 
 The BMI Calculator app combines functionality with a user-friendly design to help you stay informed about your health. Download now and start tracking your BMI effortlessly!
